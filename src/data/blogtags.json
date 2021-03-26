@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"Food"
+    },
+    {
+        "id":2,
+        "title":"Chicken"
+    },
+    {
+        "id":3,
+        "title":"Jjigae"
+    },
+    {
+        "id":4,
+        "title":"Sushi"
+    },
+    {
+        "id":5,
+        "title":"Drinks"
+    },
+    {
+        "id":6,
+        "title":"Keto"
+    },
+    {
+        "id":7,
+        "title":"Events"
+    },
+    {
+        "id":8,
+        "title":"Promos"
+    }
+]

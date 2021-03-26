@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/locations/1.jpg",
+        "title": "Crave Chinatown",
+        "brancetype": "Main Branch",
+        "location": [
+            "TODO filler text",
+            "75 Kneeland Street,",
+            "Boston, MA 02111"
+        ],
+        "contactno": "(617) 338-0188",
+        "emailid": "chinatown@crave.com",
+        "mapdata": [
+            42.350205277980386,
+            -71.06079573805086
+        ]
+    },
+    {
+        "id": 2,
+        "img": "assets/img/locations/2.jpg",
+        "title": "Crave Allston",
+        "brancetype": "Secondary Branch",
+        "location": [
+            "TODO filler text",
+            "128 Brighton Avenue,",
+            "Allston, MA 02134"
+        ],
+        "contactno": "(617) 338-0188",
+        "emailid": "allston@crave.com",
+        "mapdata": [
+            42.35259122588692,
+            -71.1313242580557
+        ]
+    },
+    {
+        "id": 3,
+        "img": "assets/img/locations/3.jpg",
+        "title": "Crave Brookline",
+        "brancetype": "Secondary Branch",
+        "location": [
+            "TODO filler text",
+            "1412 Beacon Street, #1,",
+            "Brookline, MA 02446"
+        ],
+        "contactno": "(617) 338-0188",
+        "emailid": "brookline@crave.com",
+        "mapdata": [
+            42.34136620059595,
+            -71.12551047001638
+        ]
+    }
+]
